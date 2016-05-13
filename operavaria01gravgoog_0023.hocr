@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operavaria01gravgoog_0023.png"; bbox 0 0 4517 5784; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 349 875 3827 2700">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 349 875 3827 2708">
+     <span class='ocr_line' id='line_1_1' title="bbox 353 875 3607 1298; baseline 0.002 -14"><span class='ocrx_word' id='word_1_1' title='bbox 353 1109 2010 1298; x_wconf 83' lang='lat' dir='ltr'>CHRISTIANI</span> <span class='ocrx_word' id='word_1_2' title='bbox 2204 875 3345 1290; x_wconf 53' lang='lat' dir='ltr'>Hmcffln</span> <span class='ocrx_word' id='word_1_3' title='bbox 3594 1221 3607 1228; x_wconf 87' lang='lat'>-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 423 1537 3827 2062; baseline 0.013 -178"><span class='ocrx_word' id='word_1_4' title='bbox 423 1625 678 1918; x_wconf 69' lang='grc' dir='ltr'>,ς</span> <span class='ocrx_word' id='word_1_5' title='bbox 783 1649 1054 1918; x_wconf 92' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_6' title='bbox 1273 1557 1490 2062; x_wconf 84' lang='lat' dir='ltr'>P</span> <span class='ocrx_word' id='word_1_7' title='bbox 1629 1537 1990 2028; x_wconf 75' lang='lat' dir='ltr'>[E</span> <span class='ocrx_word' id='word_1_8' title='bbox 2091 1551 2467 1988; x_wconf 66' lang='lat' dir='ltr'>R*</span> <span class='ocrx_word' id='word_1_9' title='bbox 2659 1646 2933 1910; x_wconf 87' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 3812 1911 3827 1927; x_wconf 76' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 349 2141 3699 2700; baseline 0.011 -84"><span class='ocrx_word' id='word_1_11' title='bbox 349 2141 3339 2700; x_wconf 74' lang='lat' dir='ltr'><strong>MECHANICA.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 3693 2267 3699 2274; x_wconf 66' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 945 3144 2755 3336">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 945 3144 2755 3336">
+     <span class='ocr_line' id='line_1_4' title="bbox 945 3144 2755 3336; baseline 0.004 -16"><span class='ocrx_word' id='word_1_13' title='bbox 945 3144 1998 3334; x_wconf 69' lang='lat' dir='ltr'>Tomvs-.P</span> <span class='ocrx_word' id='word_1_14' title='bbox 2062 3223 2743 3336; x_wconf 74' lang='lat' dir='ltr'><em>RRRRR</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 2734 3307 2755 3327; x_wconf 92' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
